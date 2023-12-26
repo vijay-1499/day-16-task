@@ -1,3 +1,2 @@
 # day-16-task
-its  call back task:
-i write a code on used callback in happy indipendence day  for india....
+This simple web page displays a countdown to Independence Day for India. The countdown is set to 10 seconds for demonstration purposes. When the countdown reaches zero, it displays "Happy Independence Day!"
